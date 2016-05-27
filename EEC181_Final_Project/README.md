@@ -1,4 +1,5 @@
-sdram_master.v contains the our final submission for the project. </br>
+sdram_master (45X SpeedUp & Accuracy of 93).v contains the our final submission for the project. </br>
+There are some extra files in here that are related to testing/previous designs (ie. different speed up designs)</br>
 Statistics:</br>
   Final Speed up: ~46-47X </br>
     - Original: .2 seconds per image </br>
