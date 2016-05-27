@@ -8,3 +8,5 @@ Statistics:</br>
   Accuracy</br>
     - Before Acceleration: 97% </br>
     - Post Acceleration: 91-93% </br>
+</br></br>
+If there are any questions about the source files, please feel free to contact me.
