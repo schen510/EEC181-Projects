@@ -1,8 +1,8 @@
-sdram_master.v contains the our final submission for the project.
-Statistics:
-  - Final Speed up: ~46-47X 
-  - original: .2 seconds per image 
-  - final: .004s per image
+sdram_master.v contains the our final submission for the project. </br>
+Statistics:</br>
+  Final Speed up: ~46-47X </br>
+    - Original: .2 seconds per image 
+    - Final: .004s per image
     
   - Accuracy
     Before Acceleration: 97%
