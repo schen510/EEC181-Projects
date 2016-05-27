@@ -5,5 +5,5 @@ Statistics:</br>
   - Final: .004s per image </br>
 
   Accuracy</br>
-    - Before Acceleration: 97%</br>
-    - Post Acceleration: 91-93%</br>
+    - Before Acceleration: 97% </br>
+    - Post Acceleration: 91-93% </br>
