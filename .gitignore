@@ -1,3 +1,9 @@
+*.amp
+*.axf
+*.qsf
+*.rbf
+*.srec
+*.qws
 *.rpt
 *.chg
 *.log
@@ -11,6 +17,15 @@
 *.smsg
 *.qws
 *.jdi
+*.qpf
+*.bak
+*.qsys
+*.sopcinfo
+*.txt
 *db
+hps_isw_handoff/
 output_files/
 simulation/
+mysystem/
+unsaved/
+
